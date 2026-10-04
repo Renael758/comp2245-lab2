@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+    <rect width="400" height="260" fill="#E2E8F0"/>
+    <rect x="45" y="35" width="310" height="175" rx="8" fill="#2C5282"/>
+    <rect x="65" y="55" width="270" height="135" fill="#FFFFFF"/>
+    <text x="85" y="95" font-family="monospace" font-size="18" fill="#276749">
+        &lt;html&gt;
+    </text>
+    <text x="85" y="125" font-family="monospace" font-size="18" fill="#2B6CB0">
+        &lt;body&gt;
+    </text>
+    <text x="85" y="155" font-family="monospace" font-size="18" fill="#276749">
+        Web Development
+    </text>
+    <text x="85" y="185" font-family="monospace" font-size="18" fill="#2B6CB0">
+        &lt;/body&gt;
+    </text>
+    <path d="M120 225 L280 225" stroke="#2C5282" stroke-width="12"/>
+</svg>

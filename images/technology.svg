@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+    <rect width="400" height="260" fill="#EDF2F7"/>
+    <circle cx="200" cy="130" r="55" fill="#2C5282"/>
+    <circle cx="200" cy="130" r="25" fill="#FFFFFF"/>
+
+    <line x1="200" y1="75" x2="200" y2="35" stroke="#276749" stroke-width="8"/>
+    <line x1="200" y1="185" x2="200" y2="225" stroke="#276749" stroke-width="8"/>
+
+    <line x1="145" y1="130" x2="105" y2="130" stroke="#276749" stroke-width="8"/>
+    <line x1="255" y1="130" x2="295" y2="130" stroke="#276749" stroke-width="8"/>
+
+    <circle cx="200" cy="30" r="12" fill="#2B6CB0"/>
+    <circle cx="200" cy="230" r="12" fill="#2B6CB0"/>
+    <circle cx="100" cy="130" r="12" fill="#2B6CB0"/>
+    <circle cx="300" cy="130" r="12" fill="#2B6CB0"/>
+
+    <text x="200" y="135" text-anchor="middle" font-family="Arial" font-size="15" fill="#2C5282">
+        TECH
+    </text>
+</svg>
